@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\senai-backend-c-\\aula1\\Ex1\\Exercicios_aula1.csproj": {}
+    "C:\\Users\\fic\\Desktop\\Backend\\Aula 2\\Aula 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\senai-backend-c-\\aula1\\Ex1\\Exercicios_aula1.csproj": {
+    "C:\\Users\\fic\\Desktop\\Backend\\Aula 2\\Aula 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\senai-backend-c-\\aula1\\Ex1\\Exercicios_aula1.csproj",
-        "projectName": "Exercicios_aula1",
-        "projectPath": "C:\\Users\\fic\\Desktop\\senai-backend-c-\\aula1\\Ex1\\Exercicios_aula1.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Backend\\Aula 2\\Aula 2.csproj",
+        "projectName": "Aula 2",
+        "projectPath": "C:\\Users\\fic\\Desktop\\Backend\\Aula 2\\Aula 2.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\senai-backend-c-\\aula1\\Ex1\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\Backend\\Aula 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
