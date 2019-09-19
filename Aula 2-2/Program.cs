@@ -11,7 +11,7 @@ namespace Aula_2_2
             string resultado;
 
             Console.Write("Digite a primeira nota: ");
-            nota1 = float.Parse (Console.ReadLine() );
+            nota1 = float.Parse (Console.ReadLine() );  
 
             Console.Write("Digite a segunda nota: ");
             nota2 = float.Parse (Console.ReadLine() );
