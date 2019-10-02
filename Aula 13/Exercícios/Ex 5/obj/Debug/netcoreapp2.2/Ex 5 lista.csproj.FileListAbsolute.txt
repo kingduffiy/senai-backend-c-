@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\bin\Debug\netcoreapp2.2\Ex 5 lista.deps.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\bin\Debug\netcoreapp2.2\Ex 5 lista.runtimeconfig.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\bin\Debug\netcoreapp2.2\Ex 5 lista.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\bin\Debug\netcoreapp2.2\Ex 5 lista.dll
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\bin\Debug\netcoreapp2.2\Ex 5 lista.pdb
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.dll
+C:\Users\fic\Desktop\senai-backend-c-\Aula 13\Exercícios\Ex 5 lista\obj\Debug\netcoreapp2.2\Ex 5 lista.pdb
