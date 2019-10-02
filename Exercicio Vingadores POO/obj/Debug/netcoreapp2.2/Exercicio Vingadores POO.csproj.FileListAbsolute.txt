@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\bin\Debug\netcoreapp2.2\Exercicio Vingadores POO.deps.json
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\bin\Debug\netcoreapp2.2\Exercicio Vingadores POO.runtimeconfig.json
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\bin\Debug\netcoreapp2.2\Exercicio Vingadores POO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\bin\Debug\netcoreapp2.2\Exercicio Vingadores POO.dll
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\bin\Debug\netcoreapp2.2\Exercicio Vingadores POO.pdb
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.dll
+C:\Users\fic\Desktop\senai-backend-c-\Exercicio Vingadores POO\obj\Debug\netcoreapp2.2\Exercicio Vingadores POO.pdb
